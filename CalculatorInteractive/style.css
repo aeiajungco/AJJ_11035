@@ -21,7 +21,6 @@ button {
 }
 
 
-
 .form-control {
     background: rgb(241, 241, 241);
     border: none;
@@ -51,8 +50,4 @@ hr {
 body {
     background-color: var(--background-color);
     color: var(--text-color);
-}
-
-#custom-control custom-switch {
-    margin-right: 0;
 }
