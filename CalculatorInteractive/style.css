@@ -1,0 +1,27 @@
+
+
+.calc {
+    border-style: dashed;
+    width: 50%;
+    padding: 2em;
+}
+
+.form-outline {
+    text-align: left;
+}
+
+button {
+    width: 3em;
+    height: 3em;
+    color: white;
+    border: none;
+    background-color: rgb(31, 29, 29);
+}
+
+.form-control {
+    background: rgb(241, 241, 241);
+    border: none;
+    border-radius: 0%;
+}
+
+
